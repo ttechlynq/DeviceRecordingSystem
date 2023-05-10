@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.message {
+  color: blue;
+  font-family: inherit;
+  font-size: 20px;
+  font-style: italic;
 }
